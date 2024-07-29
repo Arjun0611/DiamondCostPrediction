@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DiamondCostPrediction
+Version: 0.0.1
+Author: Arjun Patel
+Author-email: agharaarjun611@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
